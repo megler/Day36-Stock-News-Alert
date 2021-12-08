@@ -9,7 +9,9 @@ headlines if a chosen stock is up or down over a given percentage (5%).
 You will need API Keys from :
 
 [Twilio](https://www.twilio.com/)
+
 [NewsAPI](https://newsapi.org/)
+
 [AlphaAdvantageAPI](https://www.alphavantage.co/)
 
 1. Create a .env file to hold your API Keys. The .env can be called with the
